@@ -1,0 +1,9 @@
+Perbedaan Abstrak dengan Enkapsulasi dari sisi hiding yaitu
+Abstrak hanya memperlihatkan hasil yang sudah jadi tanpa memperlihatkan 
+proses yang sedang berjalan sehingga saat ingin mengedit atau merobah 
+harus masuk kedalam kelas keturunan dari kelas abstrak yang sudah dibuat.
+Sedangkan Enkapsulasi yaitu kita masih bisa mengedit atau merobah 
+di class utama namun hanya isi dari method tersebut. jika ingin mengubah
+secara keseluruhan maka harus ke kelas enkapsulasi itu dibuat. karena menggunakan
+private sehingga hanya kelas itu saja yang dapat menggunakan fungsi tersebut.
+
