@@ -1,0 +1,10 @@
+Tagging Interface adalah interface kosong yang diterapkan kelas
+untuk memasukkan variabel dalam satu set.
+
+Alasan membuat tagging interface
+1. jika Interface dibuat dengan access modifier, interface harus
+   dibuat di file baru sesuai dengan nama interfacenya.
+2. saat proses kompilasi (javac), akan dibuat file.class dari setiap
+   interface yang ada.
+3. metode di dalam interface harus berupa metode abstrak
+4. atribut di dalam interface harus berupa static / final (konstanta).
