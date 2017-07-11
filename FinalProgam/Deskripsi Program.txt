@@ -1,0 +1,40 @@
+1.Deskripsi Program
+  Program ini berisi tentang spesifikasi dari beberapa gadget yang mungkin sudah tidak asing lagi. gadget yang berada pada program tersebut antara lain
+  Komputer, Laptop, Mobile, SmartWatch, VR, serta biodata dari pendiri OS yang mendunia. diharapkan dengan program ini kita bisa tahu apa saja spesifikasi
+  yang terdapat pada gadget tersebut
+
+2.Cara Menggunakan Program
+  Pertama - Masukkan Nama Anda
+  Kedua - Masukkan Angka dari 1-6 untuk memilih menu yang anda inginkan
+  Ketiga - Jika anda ingin kembali ke menu pilihan utama silahkan tekan "y"
+	   namun jika anda tidak ingin kembali ke menu pilihan utama silahkan tekan "t"
+  Keempat - jika dari menu pilihan utama anda ingin keluar dari program silahkan pilih 7
+  
+  cat : jika anda salah memasukkan angka dari 1-7 maka akan muncul pesan dan anda harus memilih kembali angka dari 1-7
+
+3.  Spesifikasi komputer
+    - Inheritance ditujukan pada kelas mousegame (line 38)
+    - Inheritance ditujukan pada kelas monitormodern (line 47)
+    - Generik ditujukan pada kelas tegangan (line 51)
+    - Pengembalian Nilai ditujukan pada kelas komputer (line 55)
+    - Penggunaan This ditujukan pada kelas isi (line 61)
+    - Penggunaan 2 Parameter ditujukan pada kelas komputer (line 66)
+    - Konstruktor ditujukan pada kelas data_diri (line 69)
+
+    Spesifikasi Laptop
+    - Super class ditujukan pada kelas monitorlaptop (line 79)
+    - Super class ditujukan pada kelas keyboardlaptop (line 82)
+    - Super class ditujukan pada kelas speakerlaptop (line 85)
+    - Penggunaan This ditujukan pada kelas versionlaptop (line 88)
+
+    Spesifikasi Mobile
+    - Penggunaan GetSet ditujukan pada kelas mobile (line 103 - 120)
+    
+    Spesifikasi Smart Watch
+    - Interface dengan Abstract ditujukan pada kelas Isijam (line 128)
+
+    Spesifikasi VR
+    - Method Generik yang lebih dari satu type ditujukan pada kelas vr (line 139)
+
+    Spesifikasi Pendiri OS
+    - Method Generik yang lebih dari satu type ditujukan pada kelas OS (line 150 - 158) 

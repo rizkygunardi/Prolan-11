@@ -1,0 +1,112 @@
+._______________________________________________________________________________________________________________________________.
+| PERTEMUAN |    MATERI   |                                  PEMBAHASAN                                 |     FOLDER GITHUB     |
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|     1     |Pendahuluan  |- Silabus									|			|
+|	    |		  |- Aturan Penyelesaian							|			|
+|	    |		  |- Pengenalan Java								|			|
+|	    |		  |  (Java adalah bahasa Pemrograman yang dikembangkan oleh Sun Microsystems,   |			|
+|	    |		  |   yang diinisialisasi oleh James Gosling tahun 1991 dan dirilis tahun 1995. |			|
+|	    |		  |   Awalnya disebut dengan Oak, lalu menjadi Green, dan akhirnya menjadi Java)|	 Minggu 1       |
+|	    |		  |- Cara Instalasi Java, JDE,JDK, dan Netbeans					|			|
+|	    |		  |- Cara Menjalankan Netbeans							|			|
+|	    |		  |- Program Pertama (HelloWorld.java)						|			|
+|	    |		  |- Cara membuat dan menggunakan Github					|			|
+|___________|_____________|_____________________________________________________________________________|_______________________|			
+|     2     |Pengenalan   |- Pengenalan Class								|			|
+|	    |Variabel     |  (Class merupakan suatu bentuk klasifikasi dari objek-objek yang ada di     |			|
+|	    |		  |   dunia ini. 								|			|
+|	    |		  |- Pengenalan Objek								|			|
+|	    |		  |  (Objek adalah Things, benda, atau apapun dapat dikatakan objek. Artinya    |    PERTEMUAN 2	|
+|	    |		  |   sebuah objek memiliki data dan fungsi yang dimiliki oleh kelas).		|    PERTEMUAN 2 LAB	|
+|	    |		  |- Java Syntax 								|			|
+|	    |		  |  (Nama kelas harus sama dengan nama file, Kelas didefinisikan di dalam tesk |			|
+|	    |		  |   program, kelas memiliki method dan atribut)				|			|
+|	    |		  |- Menggunakan Utilitas input output						|			|
+|           |		  |  (import java.util.Scanner;, input nilai)					|			|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|     3     |  Tipe Data  |- Pengenalan Tipe Data							|			|
+|	    |		  |  (Tipe data adalah suatu keyboard yang secara otomatis datang dari bahasa   |			|
+|	    |		  |   program Java dan sama juga dari beberapa bahasa program lainnya.)		|    PERTEMUAN 3	|
+|	    |		  |- Macam - macam tipe data							|    PERTEMUAN 3 LAB	|
+|	    |		  |  (Byte, Short, Int, Long, Float Double, Char, Boolean)			|			|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|     4     |    Method   |- Mengenal macam - macam Method 						|			|
+|	    | Konstruktor |  (Method adalah sekumpulan baris program atau prosedur secara bersama - sama|			|
+|	    |     This    |   melakukan suatu task. method juga memiliki hak akses,			|			|
+|	    |   Atribut   |   methode di defiisikan di dalam kelas).					|			|
+|	    |		  |- Methode dengan keyword void dan return type.				|			|
+|	    |		  |- Pengenalan Konstruktor							|			|
+|	    |		  |  (Konstruktor adalah sebuah prosedur atau aksi-aksi yang dilakukan ketika	|    PERTEMUAN 4	|
+|	    |		  |   sebuah objek dibuat atau diciptakan, konstruktor memiliki nama yang sama	|    PERTEMUAN 4 LAB	|
+|	    |		  |   dengan nama kelas, ketika konstruktor dibuat, maka akan tercipta sebuah	|			|
+|	    |		  |   objek).									|			|
+|	    |		  |- Pengenalan Keyword This pada java						|			|
+|	    |		  |  (This digunakan sebagai referensi sebuah objek dari kelas dimana This 	|			|
+|	    |		  |   tersebut digunakan, This digunakan pada konstruktor atau method pada 	|			|
+|	    |		  |   sebuah kelas).								|			|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|     5     |    QUIZ     |- Latihan Study Kasus							|    PERTEMUAN 5	|
+|	    |		  |										|    PERTEMUAN 5 LAB	|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|     6     | Inheritance |- Pengenalan Konsep Inheritance						|			|
+|	    |    Super    |  (Inheritance memungkinkan kita membuat kelas yang diturunkan dari kelaslain|			|
+|	    |		  |   Inheritance juga memungkinkan untuk menggunakan ulang kode program dan    |			|
+|	    |		  |   mempercepat proses implementasi, kelas yang menurunkan atribut dan fungsi	|    PERTEMUAN 6	|
+|	    |		  |   disebut sebagai base class, parent, ascendant, kelas bapak, superclass).  |    PERTEMUAN 6 LAB	|
+|	    |		  |- Pengenalan Keyword Super							|			|
+|	    |		  |  (berfungsi sebagai variable referensi class , yang digunakan untuk rujukan |			|
+|	    |		  |   dari Super Class atau Parent class).					|			|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|     9     | Abstraction |- Pengenalan Konsep Abstraction						|			|
+|  Setelah  |	   	  |  (Abstraction dapat diilustrasikan dengan bagaimana mengendarai sepeda motor|			|
+|    UTS    |	          |   Abstraction adalah proses untuk menyembunyikan detil proses yang dilakukan|			|
+|	    |		  |   hanya fungsionalitas saja yang ditampilkan).				|    PERTEMUAN 9 LAB	|
+|	    |		  |- Pengenalan Abstraction method						|			|
+|	    |		  |  (Abstract method adalah sebuah method yang tidak memiliki implementasi pada|			|
+|	    |		  |   badan methodnya, abstract method dibuat agar pengguna dapat membuat	|			|
+|	    |		  |   sendiri implementasi method sesuai dengan kebutuhan method).		|			|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|     10    | Enkapsulasi |- Pengenalan Enkapsulasi							|			|
+|	    |		  |  (Enkapsulasi adalah pembungkus. Maksud dari pembungkus adalah suatu cara 	|			|
+|	    |		  |   untuk meyembunyikan implementasi detil dari class untuk mencegah akses 	| RizkyGunardi-10115104 |
+|	    |		  |   yang ilegal. Ada dua hal yang  mendasar dari enkapsulasi yaitu information|   encapIntegration	|
+|	    |		  |   hiding dan interface to access data).					|			|
+|	    |		  |- Perbedaan Abstak dan Enkapsulasi						|			|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|     11    |  Interface  |- Pengenalan Interface							|			|
+|	    |		  |  (Interface adalah sebuah reference type yang mirip dengan kelas, 		|			|
+|	    |		  |   reference type adalah salah satu tipe data yang berdasarkan pada kelas,	|			|
+|	    |		  |   interface, atau array. Interface berisi sekumpulan method abstrak		|			|
+|	    |		  |- Perbedaan Kelas dengan Interface						|    PERTEMUAN 11	|
+|	    |		  |  (kesanaan = Sama - sama memiliki method di dalamnya, nama interface sama 	|			|
+|	    |		  |   dengan nama file. perbedaan = interface tidak dapat diinstansiasi, 	|			|
+|	    |		  |   interface tidak memiliki konstruktor, semua method pada interface adalah	|			|
+|	    |		  |   method abstrak).								|			|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|     12    |   Generic   |- Pengenalan Generic								|			|
+|	    |		  |  (Kelas Generik adalah kelas yang universal atau umum, belum ada spesifikasi|			|
+|	    |		  |   tipe pada data dan fungsi yang ada pada kelas tersebut, biasanya pada	|			|
+|	    |		  |   pembuatan sebuah kelas, data (atribut) dan fungsi (method) sudah		|   PERTEMUAN 12	|
+|	    |		  |   ditentukan tipenya.							|   PERTEMUAN 12 LAB	|
+|	    |		  |- Perbedaan Generik dan Inheritance						|			|
+|	    |		  |  (Jika pada inheritance, kelas anak akan memiliki apa yang dimiliki oleh	|			|
+|	    |		  |   kelas bapak, pada generik, kelas bebas menentukan sendiri ingin menjadi	|			|
+|	    |		  |   seperti apa).								|			|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|     13    |   Generic   |- Penggunaan Generic Method							|			|
+|	    |    Method   |  (Generic method digunakan untuk menyatakan tipe parameter method yang tidak|			|
+|	    |		  |   berkaitan dengan tipe parameter yang dimiliki kelas. menyatakan tipe 	|   PERTEMUAN 13 LAB	|
+|	    |		  |   generik untuk parameter method, tipe generik dapat disimpulkan dari	|			|
+|	    |		  |   parameer yang digunakan).							|			|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|    14     | Maintenance |- Perubahan Pada Beberapa Fungsi dan Method					|			|
+|	    |		  |- Menambahkan inputan							|			|
+|	    |		  |- Membagi menjadi 2 package							|    PERTEMUAN 14 LAB	|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|    15     |Review Materi|- Review kembali dari materi pertama sampai akhir				|    PERTEMUAN 15	|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+|    16     |Final Project|- Final Project dari keseluruhan materi pertama sampai akhir			|			|
+|	    |		  |- Program Netbeans dan Notepad++ 						|    FINALPROGRAM	|
+|	    |		  |- Deskripsi Program								|			|
+|___________|_____________|_____________________________________________________________________________|_______________________|
+
